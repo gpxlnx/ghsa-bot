@@ -1,6 +1,6 @@
-GHSA-77vc-rj32-2r33
-GHSA-fq54-2j52-jc42
-GHSA-529p-jj47-w3m3
+GHSA-x6p7-44rh-m3rr
+GHSA-5jq8-q6rj-9gq4
+GHSA-jmp3-39vp-fwg8
 GHSA-7cx8-44pc-xv3q
 GHSA-qcj6-vxwx-4rqv
 GHSA-q6hg-6m9x-5g9c
