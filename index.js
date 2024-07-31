@@ -74,7 +74,7 @@ function get_severity_icon(severity) {
 
 function generate_payload(data) {
   return {
-    "content": null,
+    "content": Bun.env.ROLE_ID && `<@&${Bun.env.ROLE_ID}>` || null,
     "embeds": [
       {
         "title": data.summary,
