@@ -1,7 +1,7 @@
-GHSA-92vc-4fcw-g68q
-GHSA-3jmm-f6jj-rcc3
-GHSA-858c-qxvx-rg9v
-GHSA-wxm4-9f8p-gggv
+GHSA-2rwj-7xq8-4gx4
+GHSA-m99v-mmg2-66vf
+GHSA-f83w-wqhc-cfp4
+GHSA-4h4p-553m-46qh
 GHSA-2jch-qc96-9f5g
 GHSA-fccx-2pwj-hrq7
 GHSA-66f2-xxgm-f6xp
