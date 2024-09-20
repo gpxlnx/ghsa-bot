@@ -1,6 +1,6 @@
-GHSA-8vff-35qm-qjvv
-GHSA-qf6m-6m4g-rmrc
-GHSA-xpc5-rr39-v8v2
+GHSA-4xx7-2cx3-x473
+GHSA-vvf8-2h68-9475
+GHSA-w69q-w4h4-2fx8
 GHSA-73gr-32wg-qhh7
 GHSA-xv68-rrmw-9xwf
 GHSA-h92q-fgpp-qhrq
