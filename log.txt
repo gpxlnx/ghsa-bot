@@ -1,6 +1,6 @@
-GHSA-8fh4-942r-jf2g
-GHSA-7q7g-4xm8-89cq
-GHSA-phm4-wf3h-pc3r
+GHSA-pjwm-cr36-mwv3
+GHSA-j3vq-pmp5-r5xj
+GHSA-p2h2-3vg9-4p87
 GHSA-gv4m-f6fx-859x
 GHSA-28p7-f6h6-3jh3
 GHSA-p66q-ppwr-q5j8
