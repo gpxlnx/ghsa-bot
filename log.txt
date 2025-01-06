@@ -1,8 +1,8 @@
-GHSA-ww33-jppq-qfrp
-GHSA-qq9f-q439-2574
-GHSA-94p5-r7cc-3rpr
-GHSA-wgqq-9qh8-wvqv
-GHSA-7p2g-2vxc-5g55
+GHSA-7m27-7ghc-44w9
+GHSA-q9jv-mm3r-j47r
+GHSA-hwcp-2h35-p66w
+GHSA-wv23-996v-q229
+GHSA-j2xg-cjcx-4677
 GHSA-c6fv-7vh8-2rhr
 GHSA-jmpx-686v-c3wx
 GHSA-j386-3444-qgwg
