@@ -1,7 +1,7 @@
-GHSA-38h4-fx85-qcx7
-GHSA-h33q-mhmp-8p67
-GHSA-4w26-8p97-f4jp
-GHSA-2p94-8669-xg86
+GHSA-rr6p-3pfg-562j
+GHSA-m4mm-534h-5cp5
+GHSA-9gff-5v8w-x922
+GHSA-9f57-9rhg-4hvm
 GHSA-j7jw-28jm-whr6
 GHSA-fpmr-m242-xm7x
 GHSA-vxm9-8mfw-vc6g
