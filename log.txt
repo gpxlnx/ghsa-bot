@@ -1,7 +1,7 @@
-GHSA-92cp-5422-2mw7
-GHSA-w2rr-38wv-8rrp
-GHSA-q9f5-625g-xm39
-GHSA-879v-fggm-vxw2
+GHSA-mh63-6h87-95cp
+GHSA-4jhw-c53w-w5r7
+GHSA-v63m-x9r9-8gqp
+GHSA-837q-jhwx-cmpv
 GHSA-mcrp-whpw-jp68
 GHSA-g8vq-v3mg-7mrg
 GHSA-cf3q-gqg7-3fm9
