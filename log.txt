@@ -1,5 +1,5 @@
-GHSA-33xw-247w-6hmc
-GHSA-wg47-6jq2-q2hh
+GHSA-rfw5-cqjj-7v9r
+GHSA-hphm-3x7f-g875
 GHSA-wc53-4255-gw3f
 GHSA-xcj6-pq6g-qj4x
 GHSA-428q-q3vv-3fq3
