@@ -1,7 +1,7 @@
-GHSA-p4qw-7j9g-5h53
-GHSA-f7f6-9jq7-3rqj
-GHSA-7mpv-9xg6-5r79
-GHSA-p2q6-pwh5-m6jr
+GHSA-8g35-7rmw-7f59
+GHSA-x82r-6j37-vrgg
+GHSA-cgfj-hj93-rmh2
+GHSA-hh7j-6x3q-f52h
 GHSA-q2f9-x4p4-7xmh
 GHSA-84m6-5m72-45fp
 GHSA-75m2-jhh5-j5g2
