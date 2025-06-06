@@ -1,4 +1,4 @@
-GHSA-47m2-26rw-j2jw
+GHSA-g3p6-82vc-43jh
 GHSA-jv4x-jv3h-qff5
 GHSA-g5hg-p3ph-g8qg
 GHSA-fvx2-x7ff-fc56
