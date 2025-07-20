@@ -1,8 +1,8 @@
-GHSA-5662-cv6m-63wh
-GHSA-x6ph-r535-3vjw
-GHSA-fm79-3f68-h2fc
-GHSA-6v2p-p543-phr9
-GHSA-9rcw-c2f9-2j55
+GHSA-x8qp-wqqm-57ph
+GHSA-7xqm-7738-642x
+GHSA-7xwp-2cpp-p8r7
+GHSA-4q2v-9p7v-3v22
+GHSA-36wv-v2qp-v4g4
 GHSA-76c9-3jph-rj3q
 GHSA-fjgf-rc76-4x9p
 GHSA-29cq-5w36-x7w3
