@@ -1,4 +1,4 @@
-GHSA-mr34-8733-grr2
+GHSA-mqcj-8c2g-h97q
 GHSA-4m32-cjv7-f425
 GHSA-vv2v-pw69-8crf
 GHSA-9x5g-62gj-wqf2
